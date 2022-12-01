@@ -7,9 +7,9 @@
 
 - 🧠 I'm learning **Full-Stack Development at Henry**
 
-- 🏫 I'm study Front-End Development at **Coder House**
+- 🏫 I studied **Front-End Development at Coder House**
 
-- 💭 Ask me what you need **and I try to help you**
+- 💭 Ask me what you need and I try to help you
 
 - 📫 Contact me on **toloyjc@gmail.com**
 
