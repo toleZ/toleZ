@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently working with **React + TypeSript**
 
-- 🧠 I'm learning **Full-Stack Development at Henry**
+- 🧠 I'm learning **Full-Stack Development at Henry** and **Back-End Development at Coder House**
 
 - 🏫 I studied **Front-End Development at Coder House**
 
