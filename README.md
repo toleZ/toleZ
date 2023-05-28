@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Juan Cruz Toloy</h1>
-<h3 align="center">A passionate full stack developer from Argentina</h3>
+<h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 
 - 🌎 I'm living in **Rosario, Sta Fe**
 
 - 🌱 I'm currently working with **React + TypeSript**
 
-- 🧠 I'm learning **Full-Stack Development at Henry** and **Back-End Development at Coder House**
+- 🧠 I'm learning **Next.js**
 
-- 🏫 I studied **Front-End Development at Coder House**
+- 🏫 I studied **Front-End Development at Coder House**, **Back-End Development at Coder House** and, **Full-Stack Development at Soy Henry**
 
 - 💭 Ask me what you need and I try to help you
 
