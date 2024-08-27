@@ -5,9 +5,9 @@
 
 - 🌱 I'm currently working with **React + TypeSript**
 
-- 🧠 I'm learning **Next.js**
+- 🧠 I'm learning **C## & Angular 18**
 
-- 🏫 I studied **Front-End Development at Coder House**, **Back-End Development at Coder House** and, **Full-Stack Development at Soy Henry**
+- 🏫 I´m studing at **Austral University**
 
 - 💭 Ask me what you need and I try to help you
 
